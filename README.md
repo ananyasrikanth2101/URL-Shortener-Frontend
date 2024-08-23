@@ -1,8 +1,24 @@
-# React + Vite
+## URL Shortener Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the frontend for the URL Shortener application. It provides a user-friendly interface to shorten URLs, view URL statistics, and manage links. The application is built with React.js and includes authentication and dashboard features.
 
-Currently, two official plugins are available:
+# Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**URL Shortening:** Easily shorten long URLs.
+
+**Dashboard:** View statistics and manage shortened URLs.
+
+**Authentication:** Secure login and registration.
+
+**Forgot Password:** Reset your password if you've forgotten it.
+
+# Tech Stack
+
+**Frontend:** React.js
+
+**Styling:** Bootstrap
+
+**State Management:** React Context API  
+
+**Routing:** React Router
+
